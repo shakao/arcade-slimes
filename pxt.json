@@ -1,7 +1,9 @@
 {
     "name": "slimes",
     "description": "An asset pack for MakeCode Arcade",
-    "dependencies": {},
+    "dependencies": {
+        "device": "*"
+    },
     "files": [
         "main.blocks",
         "main.ts",
